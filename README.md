@@ -40,7 +40,7 @@ https://github.com/Nikmal8/NLP-Project-Twitter-Sentiment-Analysis.git
 ```
 2. Navigate to the project directory: 
 ```bash
-`cd NLP-Project-Twitter-Sentiment-Analysis
+cd NLP-Project-Twitter-Sentiment-Analysis
 ```
 3. Install the dependencies: 
 ```bash
