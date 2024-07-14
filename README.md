@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 Welcome to my Project! This project showcases my skills, projects, and experiences as a Data Scientist.
 
-### Demo: [Live Website](https://github.com/user-attachments/assets/036e92a8-06a5-432b-a68e-cd760a9e84db)
+### Demo: [See Output](https://github.com/user-attachments/assets/036e92a8-06a5-432b-a68e-cd760a9e84db)
 ## Some Images:
 <img width="450px;" src="https://github.com/user-attachments/assets/e892f9cb-afd6-4db3-9d27-de517f60d806"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/bedb2423-17bb-4f1e-9e6e-2905d1125eff"/>
