@@ -58,7 +58,7 @@ http://localhost:3000
 ## Usage
 - Run the main script:
 ```bash
-python main.py
+python app.py
 ```
 
 - Provide a commennt for sentiment prediction.
